@@ -70,9 +70,9 @@ export AZURE_SUBSCRIPTION_ID="SUA_ASSINATURA"
 
    1. Faça um fork do repositório.
    2. Crie uma branch para suas alterações:
-    ```bash
-   git checkout -b minha-feature
-``
+        ```bash
+        git checkout -b minha-feature
+
    3. Envie um pull request com uma descrição das alterações.
 
 Licença
